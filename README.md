@@ -10,7 +10,7 @@ I'm a software developer based in New Zealand. I enjoy coding open-source projec
 
 ###
 
-# 🛠️ &nbsp; Building projects with:
+# 🛠️ &nbsp; Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
