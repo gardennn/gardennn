@@ -1,4 +1,10 @@
-<h1 style="border-bottom: none;">👋 Hey there</h1>
+<style>
+  h1 {
+    border-bottom: none !important; /* 去除默认的底部边框 */
+  }
+</style>
+
+<h1>👋 Hey there</h1>
 
 <hr style="width: 50%;">
 
