@@ -12,6 +12,7 @@ Hi, I'm Garden. I'm a seasoned blockchain engineer with a wealth of experience i
 ###
 
 # 🛠️ &nbsp; Languages and Tools
+-----------------------
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
