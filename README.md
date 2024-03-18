@@ -5,8 +5,10 @@ Hi, I'm Garden. I'm a seasoned blockchain engineer with a wealth of experience i
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/5roq280.jpg"  />
 
+<div style="float: left;">
+  <img src="https://i.imgur.com/5roq280.jpg" height="150" alt="javascript logo"  />
+</div>
 ###
 
 # 🛠️ &nbsp; Languages and Tools
