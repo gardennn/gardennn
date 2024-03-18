@@ -1,11 +1,11 @@
-## My Digital Garden 🌱
+### 👋 Hey there
 <hr style="width: 50%;">
 
 Hi, I'm Garden. I'm a seasoned blockchain engineer with a wealth of experience in various blockchain projects, including payment tools and NFT platforms. I'm deeply passionate about the decentralized technology and its transformative potential. 🚀
 
 <img align="right" height="150" src="https://i.imgur.com/5roq280.jpg"  />
 
-<h1>🛠️ Languages and Tools</h1>
+### 🛠️ Languages and Tools
 
 <hr style="width: 50%;">
 
