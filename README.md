@@ -1,17 +1,9 @@
 # 👋 Hey there
 <hr style="width: 50%;">
 Hi, I'm Garden. I'm a seasoned blockchain engineer with a wealth of experience in various blockchain projects, including payment tools and NFT platforms. I'm deeply passionate about the decentralized technology and its transformative potential. 🚀
-
-
-
-
 <img align="right" height="150" src="https://i.imgur.com/5roq280.jpg"  />
-
-
-
 # 🛠️ Languages and Tools
 <hr style="width: 50%;">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -37,6 +29,3 @@ Hi, I'm Garden. I'm a seasoned blockchain engineer with a wealth of experience i
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
-
-###
-&nbsp;
