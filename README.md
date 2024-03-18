@@ -3,12 +3,12 @@
 Hi, I'm Garden. I'm a seasoned blockchain engineer with a wealth of experience in various blockchain projects, including payment tools and NFT platforms. I'm deeply passionate about the decentralized technology and its transformative potential. 🚀
 &nbsp;
 
-###
+
 
 
 <img align="right" height="150" src="https://i.imgur.com/5roq280.jpg"  />
 
-###
+
 
 # 🛠️ Languages and Tools
 <hr style="width: 50%;">
