@@ -1,4 +1,3 @@
-<h1>👋 Hey there</h1>
 
 <hr style="width: 50%;">
 
