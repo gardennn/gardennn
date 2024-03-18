@@ -1,3 +1,10 @@
+<style>
+  h1 {
+    border: none; 
+  }
+</style>
+
+<h1 >👋 Hey there</h1>
 
 <hr style="width: 50%;">
 
