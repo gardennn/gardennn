@@ -1,7 +1,6 @@
 # 👋 &nbsp;Hey there
 
-Hi, I'm Garden. I'm a seasoned blockchain engineer with a wealth of experience in various blockchain projects, including payment tools and NFT platforms. I'm deeply passionate about the decentralized world and its transformative potential. 🌱
-
+Hi, I'm Garden. I'm a seasoned blockchain engineer with a wealth of experience in various blockchain projects, including payment tools and NFT platforms. I'm deeply passionate about the decentralized technology and its transformative potential. 🚀
 &nbsp;
 
 ###
@@ -40,14 +39,3 @@ Hi, I'm Garden. I'm a seasoned blockchain engineer with a wealth of experience i
 
 ###
 &nbsp;
-
-
-<!--
-### Hi there 👋
-
-**gardennn/gardennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://Cyris.io) for my blog and more.
-
--->
-
