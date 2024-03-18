@@ -1,5 +1,6 @@
 # 👋 &nbsp;Hey there
 
+Hi, I'm Garden. I'm a seasoned blockchain engineer with a wealth of experience in various blockchain projects, including payment tools and NFT platforms. I'm deeply passionate about the decentralized world and its transformative potential. 🌱
 
 &nbsp;
 
