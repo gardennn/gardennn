@@ -1,6 +1,4 @@
-### 
-
-# 👋 Hey there
+<h1>👋 Hey there</h1>
 
 <hr style="width: 50%;">
 
@@ -8,7 +6,7 @@ Hi, I'm Garden. I'm a seasoned blockchain engineer with a wealth of experience i
 
 <img align="right" height="150" src="https://i.imgur.com/5roq280.jpg"  />
 
-# 🛠️ Languages and Tools
+<h1>🛠️ Languages and Tools</h1>
 
 <hr style="width: 50%;">
 
