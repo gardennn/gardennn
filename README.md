@@ -3,7 +3,7 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" height="100" src="https://i.imgur.com/5roq280.jpg" />
+<!-- <img align="right" height="100" src="https://i.imgur.com/5roq280.jpg" /> -->
 
 I'm a **Blockchain Developer** — building **smart contracts**, tracing **on-chain activity**, and shipping the **backends** that power Web3 products.
 
