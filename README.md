@@ -5,11 +5,11 @@
 
 <!-- <img align="right" height="100" src="https://i.imgur.com/5roq280.jpg" /> -->
 
-I'm a **Blockchain Developer** — building **smart contracts**, tracing **on-chain activity**, and shipping the **backends** that power Web3 products.
+I'm a **Blockchain Developer** — building **smart contracts**, tracing **on-chain activity**, and developing **backends**.
 
-- 🔐 **Smart contract development** — EVM contracts, DEX & DeFi integrations, payment systems, NFT platforms, staking
-- 🕸️ **On-chain analysis & forensics** — On-chain investigation, cross-chain tracing, address labeling, AML investigation tooling
-- 🏗️ **Backend engineering** — REST APIs, blockchain data indexers, RPC integrations, real-time monitoring systems
+- 🔐 **Smart contract development** — EVM contracts, DEX & DeFi integrations, payment systems, NFT platforms, staking protocols
+- 🕸️ **On-chain analysis & forensics** — On-chain investigation, cross-chain tracing, address labeling, AML compliance tooling
+- 🏗️ **Backend engineering** — Blockchain data indexers, RPC & node integrations, on-chain event monitoring, high-throughput APIs
 
 
 ---
@@ -32,8 +32,10 @@ I'm a **Blockchain Developer** — building **smart contracts**, tracing **on-ch
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
 **Frontend**  
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
